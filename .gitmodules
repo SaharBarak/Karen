@@ -1,0 +1,12 @@
+[submodule "karen-cli"]
+	path = karen-cli
+	url = git@github.com:SaharBarak/karen-cli.git
+[submodule "karen-cli-npm"]
+	path = karen-cli-npm
+	url = https://github.com/SaharBarak/karen-cli.git
+[submodule "karen-cli-web"]
+	path = karen-cli-web
+	url = https://github.com/SaharBarak/karen-cli-web.git
+[submodule "KarenCLI"]
+	path = KarenCLI
+	url = git@github.com:SaharBarak/KarenCLI.git
